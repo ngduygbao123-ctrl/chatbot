@@ -1,0 +1,6 @@
+{
+  "name": "NovaCare AI - Trợ Lý Chăm Sóc Khách Hàng",
+  "description": "Nền tảng chatbot AI chăm sóc khách hàng thông minh 24/7, tự động giải đáp thắc mắc, tra cứu đơn hàng và hỗ trợ khách hàng đa kênh bằng tiếng Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
